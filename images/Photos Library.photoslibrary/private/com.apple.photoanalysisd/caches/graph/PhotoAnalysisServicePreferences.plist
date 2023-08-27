@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PHAAssetRevGeocodeEnrichmentTask</key>
+	<date>2023-07-26T16:50:10Z</date>
+	<key>PHACachingCPAnalyticsPropertiesTask</key>
+	<date>2023-07-26T17:27:55Z</date>
+	<key>PHAGraphConsistencyTask</key>
+	<date>2023-07-26T16:50:02Z</date>
+	<key>PHAGraphRebuildTask</key>
+	<date>2023-07-26T17:27:55Z</date>
+	<key>PHAHighlightCollectionEnrichmentTask</key>
+	<date>2023-07-26T16:50:02Z</date>
+	<key>PHAHighlightEnrichmentTask</key>
+	<date>2023-07-26T16:50:02Z</date>
+	<key>PHAMediaSampleReportingTask</key>
+	<date>2023-07-26T17:27:55Z</date>
+	<key>PHAMemoriesEnrichmentTask</key>
+	<date>2023-07-26T16:50:10Z</date>
+	<key>PHAMemoryElectionTask</key>
+	<date>2023-07-26T16:50:10Z</date>
+	<key>PHAPeopleSuggestionEnrichmentTask</key>
+	<date>2023-07-26T17:27:55Z</date>
+	<key>PHAPortraitDonationEnrichmentTask</key>
+	<date>2023-07-26T17:27:55Z</date>
+	<key>PHASearchEnrichmentTask</key>
+	<date>2023-07-26T16:50:10Z</date>
+	<key>PHASuggestionGenerationTask</key>
+	<date>2023-07-26T16:50:10Z</date>
+	<key>PHASyndicationTask</key>
+	<date>2023-07-26T16:50:05Z</date>
+	<key>PHAUserBehaviorEnrichmentTask</key>
+	<date>2023-07-20T22:58:07Z</date>
+	<key>PHAWeeklyHighlightEnrichmentTask</key>
+	<date>2023-07-14T03:35:51Z</date>
+</dict>
+</plist>
